@@ -1,7 +1,7 @@
 <template>
     <vs-button  color="danger" type="relief" @click.native="click" style="outline: none; "> {{text}}</vs-button>
 </template>
-
+//// cool
 <script>
     import {submitGradebook} from "../../../../../api/api";
 
